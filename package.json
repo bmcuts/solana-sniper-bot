@@ -2,6 +2,7 @@
   "name": "solana-sniper-bot",
   "author": "Filip Dundjer",
   "scripts": {
+    "start": "ts-node buy.ts",
     "buy": "ts-node buy.ts"
   },
   "dependencies": {
